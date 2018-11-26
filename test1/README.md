@@ -1,7 +1,4 @@
 ## Test-1
- * Extract a new array from the existing one
- * Make a new array of objects `productNamePrice` from the products array; it should contain only `productName` and `productPrice`
- * The new array should only contain productName and productPrice
- * Print that new array
- * make a new variable extract the object with the least productPrice amount
- * print the variable
+ 1. Make a new array of objects called *productNamePrice* from the products array; it should contain only `productName` and `productPrice`
+ 2. Make a function called *leastPriceWithThisName* which will take one param (name). It should return the product with least price which has the `name` passed to the function
+	function format -> ```leastPriceWithThisName(name)```

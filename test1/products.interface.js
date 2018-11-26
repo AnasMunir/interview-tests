@@ -62,7 +62,7 @@ products = [
 	{
 		id: "81CF5301",
 		productName: "Stamps and Flower - Sage",
-		productPrice: 4109,
+		productPrice: 2109,
 		productPriceCompare: 9000,
 		productSKU: "CL-05 B",
 		productSeoKeyword: "Stamps and Flowers - Sage",
