@@ -1,3 +1,4 @@
+'use strict';
 const products = require('./products.interface');
 class Products {
 	constructor() {
