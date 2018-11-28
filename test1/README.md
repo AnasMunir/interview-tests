@@ -5,6 +5,5 @@
 
 Hint:
 
-- Try to make use of `filter,map,reduce`
 - Do Not use `for-loops`
 - It's encouraged that you divide your code into **pure** functions
