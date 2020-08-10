@@ -1,15 +1,21 @@
 'use strict';
 const products = require('./products.interface');
-class Products {
+const cart = require('./cart.interface');
+
+class Test {
 	constructor() {
-		displayProducts();
+		// displayProducts();
+		displayCart();
 	}
 }
 
-function displayProducts() {
+const displayProducts = () => {
 	console.log('products', products);
 }
 
+const displayCart = () => {
+	console.log('cart', cart);
+}
 
 
 
@@ -23,4 +29,4 @@ function displayProducts() {
 
 
 // Do not edit below this line
-const product = new Products();
+const test = new Test();
