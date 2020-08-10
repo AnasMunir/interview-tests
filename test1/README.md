@@ -6,7 +6,7 @@
 3. Extract the total quantity of items from the carts array.
 4. Extract a cart item with the least price and a cart item with the max price.
 5. Calculate the total price of the cart, keep in mind any discounts applied to a cart item.
-Hint:
+Note:
 
 - Do Not use `for-loops` nor `forEach`.
 - It's encouraged that you divide your code into **pure** functions.
