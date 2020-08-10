@@ -4,8 +4,8 @@ const cart = require('./cart.interface');
 
 class Test {
 	constructor() {
-		// displayProducts();
-		displayCart();
+		displayProducts(); // You can comment this if you want
+		displayCart(); // You can comment this if you want
 	}
 }
 
@@ -16,6 +16,7 @@ const displayProducts = () => {
 const displayCart = () => {
 	console.log('cart', cart);
 }
+
 
 
 
