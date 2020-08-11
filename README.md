@@ -1,6 +1,6 @@
 # Interview Tests
 These are following tests that candidates must attempt before coming for the interview.
-Clone this repo and make your own github repository. Once your done share your repo at `anas.munir@bramerz.pk`.
+Clone this repo and make your own github repository. Once you're done share your repo at `anas.munir@bramerz.pk`.
 
 Note:
 - You need to have node installed on your machine.
