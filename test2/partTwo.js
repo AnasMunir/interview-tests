@@ -1,6 +1,6 @@
 const ourAsyncFunc = () => {
 	console.log("1. We are Borg");
-	setTimeout(function () {
+	setTimeout(() => {
 		console.log("2. You will be assimilated!");
 	}, 2000);
 	console.log("3. Resistance is futile!");
